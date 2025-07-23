@@ -33,10 +33,10 @@ It’s designed to help HR teams and decision-makers understand what factors lea
 ## 🖼 Dashboard Preview
 
 ### Desktop View
-![Dashboard Screenshot - Desktop](/mnt/data/Screenshot%20(34).png)
+![Dashboard Screenshot - Desktop](dashboard_desktop.png)
 
 ### Mobile View
-![Dashboard Screenshot - Mobile](/mnt/data/Screenshot%20(35).png)
+![Dashboard Screenshot - Mobile](dashboard_desktop.png)
 
 ---
 
